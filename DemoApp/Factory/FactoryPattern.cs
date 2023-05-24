@@ -1,4 +1,4 @@
-﻿namespace DemoApp
+﻿namespace DemoApp.FP
 {
     interface IPizzaChef //IFactory
     {
